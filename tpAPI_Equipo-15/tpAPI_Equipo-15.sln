@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiWeb", "apiWeb\apiWeb.csproj", "{5FE150B7-55D9-44C4-9E15-50831505D2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{8B5855C2-9061-4A49-911A-27EDCD30207F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{75951A09-95CF-4134-8F64-C362A35F0AB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5FE150B7-55D9-44C4-9E15-50831505D2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE150B7-55D9-44C4-9E15-50831505D2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE150B7-55D9-44C4-9E15-50831505D2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5855C2-9061-4A49-911A-27EDCD30207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5855C2-9061-4A49-911A-27EDCD30207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5855C2-9061-4A49-911A-27EDCD30207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5855C2-9061-4A49-911A-27EDCD30207F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75951A09-95CF-4134-8F64-C362A35F0AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75951A09-95CF-4134-8F64-C362A35F0AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75951A09-95CF-4134-8F64-C362A35F0AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75951A09-95CF-4134-8F64-C362A35F0AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
