@@ -1,0 +1,65 @@
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\bin\Debug\Front.exe.config
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\bin\Debug\Front.exe
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\bin\Debug\Front.pdb
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.mainForm.resources
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.exe
+C:\Users\dream\Desktop\Lucas\UTN\PROGRAMACION INGRESO Y MAS\PROGRAMACION III NOCHE\GestorComercio\Front\obj\Debug\Front.pdb
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.exe.config
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.exe
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.pdb
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.exe.config
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.exe
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.pdb
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.FormMenu.resources
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.exe
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.pdb
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.exe.config
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.exe
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Front.pdb
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.FormNuevoArticulo.resources
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.FormMenu.resources
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.FormNuevoArticulo.resources
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Dominio.dll
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Negocio.dll
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Dominio.pdb
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Negocio.pdb
+C:\Users\usuario\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.Up2Date
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Dominio.dll
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Negocio.dll
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Dominio.pdb
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Negocio.pdb
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.csproj.Up2Date
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Front.exe.config
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Front.exe
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Front.pdb
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Dominio.dll
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Negocio.dll
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Dominio.pdb
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Negocio.pdb
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.FormMenu.resources
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.FormNuevoArticulo.resources
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.csproj.Up2Date
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.exe
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.pdb
+C:\Users\usuario\Desktop\tp-winform-equipo-15A\GestorComercio\Front\obj\Debug\Front.FrmAddMarcaYCategoria.resources
+C:\Users\dream\Desktop\Progra3_2025\GestorComercio\Front\obj\Debug\Front.FrmAddMarcaYCategoria.resources
