@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dream\\Desktop\\tpAPIprogra3\\tp-APIs-Equipo-15A\\GestorComercio\\",
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A922F769-BB97-4DD7-BD4E-39AEDF2BEC2F}|Api\\Api.csproj|c:\\users\\dream\\desktop\\tpapiprogra3\\tp-apis-equipo-15a\\gestorcomercio\\api\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A922F769-BB97-4DD7-BD4E-39AEDF2BEC2F}|Api\\Api.csproj|solutionrelative:api\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878DA3D5-7380-4B3A-BB92-758E3DE9442C}|API1\\API1.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\tp-apis-equipo-15a\\gestorcomercio\\api1\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878DA3D5-7380-4B3A-BB92-758E3DE9442C}|API1\\API1.csproj|solutionrelative:api1\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A922F769-BB97-4DD7-BD4E-39AEDF2BEC2F}|Api\\Api.csproj|c:\\users\\dream\\desktop\\tpapiprogra3\\tp-apis-equipo-15a\\gestorcomercio\\api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A922F769-BB97-4DD7-BD4E-39AEDF2BEC2F}|Api\\Api.csproj|solutionrelative:api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878DA3D5-7380-4B3A-BB92-758E3DE9442C}|API1\\API1.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\tp-apis-equipo-15a\\gestorcomercio\\api1\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878DA3D5-7380-4B3A-BB92-758E3DE9442C}|API1\\API1.csproj|solutionrelative:api1\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E98D7E-31BA-44AF-B158-1E08FE58BD7B}|Dominio\\Dominio.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\tp-apis-equipo-15a\\gestorcomercio\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E98D7E-31BA-44AF-B158-1E08FE58BD7B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D651C91-F238-47DA-B03F-3032D6AC3F94}|Negocio\\Negocio.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\tp-apis-equipo-15a\\gestorcomercio\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D651C91-F238-47DA-B03F-3032D6AC3F94}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,37 +29,55 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ImagenController.cs",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpAPIprogra3\\tp-APIs-Equipo-15A\\GestorComercio\\Api\\Controllers\\ImagenController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\ImagenController.cs",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpAPIprogra3\\tp-APIs-Equipo-15A\\GestorComercio\\Api\\Controllers\\ImagenController.cs",
-              "RelativeToolTip": "Api\\Controllers\\ImagenController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T22:05:57.558Z",
+              "WhenOpened": "2025-10-10T23:29:20.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\dream\\Desktop\\tpAPIprogra3\\tp-APIs-Equipo-15A\\GestorComercio\\Api\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\dream\\Desktop\\tpAPIprogra3\\tp-APIs-Equipo-15A\\GestorComercio\\Api\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Api\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Title": "ArticuloDTO.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\API1\\Models\\ArticuloDTO.cs",
+              "RelativeDocumentMoniker": "API1\\Models\\ArticuloDTO.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\API1\\Models\\ArticuloDTO.cs*",
+              "RelativeToolTip": "API1\\Models\\ArticuloDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T22:05:11.933Z",
+              "WhenOpened": "2025-10-11T01:15:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\API1\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "API1\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\API1\\Controllers\\ArticuloController.cs*",
+              "RelativeToolTip": "API1\\Controllers\\ArticuloController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:29:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Nueva carpeta\\tp-APIs-Equipo-15A\\GestorComercio\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T23:09:32.774Z",
               "EditorCaption": ""
             }
           ]
