@@ -62,5 +62,31 @@ namespace Negocio
                 datos.CerrarConeccion();
             }
         }
+
+        public bool checkCategoria(int id)
+        {
+            try
+            {
+                DataBaseCat.SetearConsulta("SELECT COUNT(*) FROM Categorias WHERE Id = @id");
+                DataBaseCat.SetearParametro("@id", id);
+                DataBaseCat.EjecutarLectura();
+
+                if (DataBaseCat.Lector.Read())
+                {
+                    int cantidad = (int)DataBaseCat.Lector[0];
+                    return cantidad > 0;
+                }
+
+                return false;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                DataBaseCat.CerrarConeccion();
+            }
+        }
     }
 }

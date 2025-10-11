@@ -62,5 +62,31 @@ namespace Negocio
                 datos.CerrarConeccion();
             }
         }
+
+        public bool checkMarca(int id)
+        {
+            try
+            {
+                DataBaseMarca.SetearConsulta("SELECT COUNT(*) FROM Marcas WHERE Id = @id");
+                DataBaseMarca.SetearParametro("@id", id);
+                DataBaseMarca.EjecutarLectura();
+
+                if (DataBaseMarca.Lector.Read())
+                {
+                    int cantidad = (int)DataBaseMarca.Lector[0];
+                    return cantidad > 0;
+                }
+
+                return false;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                DataBaseMarca.CerrarConeccion();
+            }
+        }
     }
 }
