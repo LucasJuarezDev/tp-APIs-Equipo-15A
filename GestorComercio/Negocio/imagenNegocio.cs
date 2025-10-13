@@ -201,5 +201,31 @@ namespace Negocio
                 dataImage.CerrarConeccion();
             }
         }
+
+        public bool checkArticulo(int id)
+        {
+            try
+            {
+                dataImage.SetearConsulta("SELECT COUNT(*) FROM ARTICULOS WHERE Id = @Id");
+                dataImage.SetearParametro("@Id", id);
+                dataImage.EjecutarLectura();
+
+                if (dataImage.Lector.Read())
+                {
+                    int cantidad = (int)dataImage.Lector[0];
+                    return cantidad > 0;
+                }
+
+                return false;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                dataImage.CerrarConeccion();
+            }
+        }
     }
 }
